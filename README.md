@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️ I am in my last semester of Systems Engineering (ends December 2023) 🎓<br>✔️ I'm working on my own projects 🤓<br>✔️ I like collaborating with other developers 👌<br>✔️ Currently I'm still learning Spring Boot 🎓<br>✔️ I am looking for teamwork 🎖️
+✔️ I am Systems Engineering (ends December 2023) 🎓<br>✔️ I'm working on my own projects 🤓<br>✔️ I like collaborating with other developers 👌<br>✔️ Currently I'm still learning Spring Boot 🎓<br>✔️ I am looking for teamwork 🎖️
 
 
 ## 🌐 Socials:
